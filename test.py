@@ -1,3 +1,3 @@
 print("dari lokal")
 
-print("dari github lagi")
+print("print lagi ah dari lokal")
